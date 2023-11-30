@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://bmnef6bxlflm"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_vsqtm"]
+size = Vector2(30, 597)
+
+[node name="Reset Wall" type="Area2D"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-19, 316)
+shape = SubResource("RectangleShape2D_vsqtm")

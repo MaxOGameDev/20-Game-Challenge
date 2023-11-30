@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://dlj6fcpdt8xoh"]
+
+[ext_resource type="Texture2D" uid="uid://c7l7gwus4oa0a" path="res://Assets/Characters And Items/Ball.png" id="1_ptiyl"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_lndqe"]
+size = Vector2(16, 18)
+
+[node name="Ball" type="CharacterBody2D"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_lndqe")
+
+[node name="Ball" type="Sprite2D" parent="."]
+position = Vector2(1, 4)
+scale = Vector2(0.21, 0.235)
+texture = ExtResource("1_ptiyl")

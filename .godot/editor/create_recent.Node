@@ -1,0 +1,9 @@
+Label
+CollisionShape2D
+Area2D
+CharacterBody2D
+RigidBody2D
+Sprite2D
+RemoteTransform2D
+Camera2D
+TileMap

@@ -1,0 +1,18 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1701372369
+::res://Assets/::1700681701
+::res://Assets/Characters And Items/::1700802827
+Ball.png::CompressedTexture2D::7043547364896786130::1700682450::1700682453::1::::<><>::
+ball.tscn::PackedScene::7951810015011269527::1700802827::0::1::::<><>::uid://c7l7gwus4oa0a::::res://Assets/Characters And Items/Ball.png
+BallPhys.gd::GDScript::-1::1700802729::0::1::::<>CharacterBody2D<>::
+FollowBall.gd::GDScript::-1::1700802772::0::1::::<>CharacterBody2D<>::
+Paddle.png::CompressedTexture2D::5117233857865357217::1700682788::1700682790::1::::<><>::
+player_paddle.gd::GDScript::-1::1700802826::0::1::::<>CharacterBody2D<>::
+player_paddle.tscn::PackedScene::3256912821399479660::1700693506::0::1::::<><>::uid://ce53dgwwarjun
+reset_wall.tscn::PackedScene::95758151350630590::1700802827::0::1::::<><>::
+ScorePlayer.gd::GDScript::-1::1700799589::0::1::::<>Area2D<>::
+::res://Assets/Envrionment/::1700683016
+Base Background.png::CompressedTexture2D::3924156899761507411::1700681698::1700681701::1::::<><>::
+Base Tileset1.png::CompressedTexture2D::9028541679918644651::1700683011::1700683016::1::::<><>::
+::res://Levels/::1700802912
+Pong Game.tscn::PackedScene::2388180045355234762::1700802912::0::1::::<><>::uid://bv55j5gdkuhl8::::res://Assets/Envrionment/Base Background.png<>uid://bmnw44l1x1xvg::::res://Assets/Characters And Items/player_paddle.tscn<>res://Assets/Characters And Items/player_paddle.gd<>uid://dlj6fcpdt8xoh::::res://Assets/Characters And Items/ball.tscn<>uid://d1vq06kwi5jgl::::res://Assets/Envrionment/Base Tileset1.png<>res://Assets/Characters And Items/FollowBall.gd<>res://Assets/Characters And Items/BallPhys.gd<>uid://bmnef6bxlflm::::res://Assets/Characters And Items/reset_wall.tscn
